@@ -1,1 +1,3 @@
 # .github
+
+このorganizationについての説明
